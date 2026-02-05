@@ -92,11 +92,6 @@ section h3 {
   margin: 0;
 }
 
-.participants-list.no-bullets {
-  list-style-type: none;
-  padding-left: 0;
-}
-
 .delete-participant {
   color: #c62828;
   cursor: pointer;
